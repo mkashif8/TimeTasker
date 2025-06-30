@@ -33,11 +33,13 @@ dotnet run
 
 ### 🖥️ Dashboard View
 See your daily time total, weekly breakdown, category-wise insights, and live active task.
-![Dashboard Screenshot](assets/dashboard-time-tasker.png)
+![Dashboard Screenshot](assets/dashboard-time-task.jpg)
+
+![Dashboard Screenshot](assets/timetask-dashboard-version-2.jpg)
 
 ### 🗂️ Task Management + Timer
 Manage all tasks, view/edit statuses, track due dates, and run a circular live timer.
-![Task Management Screenshot](assets/task-timer-time-tasker.png)
+![Task Management Screenshot](assets/manage-tasks.jpg)
 
 ## 📬 Hire Me
 
